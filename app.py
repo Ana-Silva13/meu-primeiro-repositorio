@@ -5,10 +5,9 @@ def saudacao(nome: str) -> str:
     Retorna uma saudação simples para o nome informado.
 
     Exemplo: saudacao("Maria") -> "Olá, Maria!"
-
     """
 
-    return f"Olá, {nome}!"
+    return f"Olá, {nome}, bom dia, tudo bem?"
 
 if __name__ == "__main__":
 
